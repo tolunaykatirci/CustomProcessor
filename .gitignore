@@ -1,3 +1,13 @@
 
 DigitalLogic/.idea
 DigitalLogic/out
+.idea/CustomProcessor.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+DigitalLogic/DigitalLogic.iml
+DigitalLogic/output.hex
+DigitalLogic/DigitalLogic.iml
+DigitalLogic/output.hex
+*.iml
